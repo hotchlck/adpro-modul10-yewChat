@@ -6,3 +6,5 @@
 <img src = "img/3.1 cmd.png">
 
 ## 3.2: Be Creative!
+<img src = "img/3.2.png">
+I changed the color palette into pink dominated and changed the copywriting on the app so it looks more lively.
